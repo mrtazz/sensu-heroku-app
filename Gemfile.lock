@@ -47,5 +47,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  sensu (= 0.9.6.beta.2)
+  sensu (>= 0.9.6.beta.2)
   sensu-plugin!

@@ -1,0 +1,12 @@
+{
+  "api": {
+    "host": "an-api.herokuapp.com"
+  },
+  "checks": {},
+  "handlers": {
+    "default": {
+       "type": "pipe",
+       "command": "bin/show.rb"
+      }
+   }
+}
